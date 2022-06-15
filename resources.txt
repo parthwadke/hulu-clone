@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/70820889/next-js-error-serializing-results-returned-from-getserversideprops
+
+
